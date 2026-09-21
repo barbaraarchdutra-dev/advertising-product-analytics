@@ -238,39 +238,16 @@ O painel apresenta:
 
 ---
 
-## Tecnologias utilizadas
+## Tecnologias
 
-* **SQL**
-
-  * consultas;
-  * agregações;
-  * `JOIN`;
-  * `GROUP BY`;
-  * `HAVING`;
-  * `ORDER BY`;
-  * CTEs;
-  * criação de views;
-  * validação de dados.
-
-* **Python**
-
-  * pandas;
-  * exploração e tratamento dos dados;
-  * cálculo de indicadores;
-  * análise exploratória;
-  * visualização.
-
-* **Streamlit**
-
-  * construção do dashboard interativo.
-
-* **Plotly**
-
-  * visualizações interativas.
-
-* **SQLite**
-
-  * armazenamento e consulta da base de dados.
+- **SQLite:** armazenamento e consulta da base de dados.
+- **SQL:** exploração, agregação, cruzamento e validação dos dados.
+- **Python:** análise exploratória e processamento dos dados.
+- **Pandas:** manipulação de dados e cálculo de indicadores.
+- **Matplotlib:** geração das visualizações utilizadas na análise exploratória.
+- **Plotly:** visualizações interativas utilizadas no dashboard.
+- **Streamlit:** construção e publicação do dashboard interativo.
+- **Git e GitHub:** versionamento e documentação do projeto.
 
 ---
 
