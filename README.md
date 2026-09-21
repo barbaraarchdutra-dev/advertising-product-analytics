@@ -24,20 +24,13 @@ O projeto foi desenvolvido como case de portfólio e utiliza dados **educacionai
 
 ## Problema de negócio
 
-Como os dados de campanhas, anunciantes e inventário publicitário podem apoiar a análise de desempenho e eficiência dos produtos?
+Produtos de publicidade digital possuem diferentes formatos, modelos de precificação e características de entrega. Para avaliar seu desempenho, é necessário combinar indicadores de campanhas com informações de inventário e monetização.
 
-A partir dessa questão, foram analisados indicadores relacionados a:
+A principal pergunta deste projeto é:
 
-* desempenho de campanhas;
-* interação e conversão;
-* eficiência de investimento;
-* ocupação do inventário;
-* geração de receita;
-* monetização dos produtos;
-* relação entre investimento e receita.
+> **Como os dados de campanhas, anunciantes e inventário publicitário podem apoiar decisões sobre desempenho e eficiência dos produtos?**
 
----
-
+A partir dessa pergunta, a análise busca identificar diferenças de desempenho entre os produtos, avaliar indicadores de interação e conversão, analisar a ocupação do inventário e relacionar investimento, receita e eficiência de monetização.
 ## Objetivo
 
 Construir uma análise exploratória que permita comparar diferentes produtos publicitários e identificar padrões de desempenho e eficiência a partir de indicadores de campanha e inventário.
