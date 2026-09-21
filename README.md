@@ -6,9 +6,9 @@ Explore o dashboard publicado no Streamlit:
 
 👉 **[Acessar o dashboard](https://advertising-appuct-analytics-de3qrpwpyzwgfjyyjqvjft.streamlit.app/)**
 
-> Projeto de portfólio com dados educacionais e fictícios, desenvolvido para analisar desempenho de campanhas, eficiência de produtos publicitários, ocupação de inventário e geração de receita.
+![Preview do dashboard](dashboard/dashboard_preview.png)
 
-**Projeto autoral | Dados educacionais e fictícios**
+> Projeto de portfólio com dados educacionais e fictícios, desenvolvido para analisar desempenho de campanhas, eficiência de produtos publicitários, ocupação de inventário e geração de receita.
 
 ---
 
