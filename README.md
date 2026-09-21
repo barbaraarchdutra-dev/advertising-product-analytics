@@ -14,11 +14,11 @@ Explore o dashboard publicado no Streamlit:
 
 ## Sobre o projeto
 
-Este projeto simula uma análise de dados aplicada a produtos de publicidade digital, buscando entender como informações de campanhas, anunciantes e inventário publicitário podem apoiar a leitura de desempenho e eficiência dos diferentes formatos de produto.
+Este projeto simula uma análise de dados aplicada a produtos de publicidade digital, com foco em entender como dados de campanhas, anunciantes e inventário publicitário podem apoiar a avaliação de **desempenho, eficiência, ocupação e geração de receita** dos diferentes formatos de produto.
 
-A proposta combina conhecimentos de **Publicidade e Propaganda, Marketing, Customer Experience e Data Analytics**, utilizando SQL, Python e Streamlit para transformar dados estruturados em indicadores, análises e visualizações.
+A análise combina conhecimentos de **Publicidade e Propaganda, Marketing, Customer Experience e Data Analytics**, utilizando SQL para exploração e agregação dos dados, Python e Pandas para análise e cálculo de indicadores, e Streamlit para construção do dashboard interativo.
 
-O projeto foi desenvolvido como estudo de portfólio e não utiliza dados reais ou confidenciais de empresas.
+O projeto foi desenvolvido como case de portfólio e utiliza dados **educacionais e fictícios**, sem representar dados reais ou confidenciais de empresas.
 
 ---
 
