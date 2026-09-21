@@ -1,8 +1,12 @@
-# Análise de Produtos de Publicidade
+# Advertising Product Analytics
 
-🚀 **Dashboard interativo:** https://advertising-appuct-analytics-de3qrpwpyzwgfjyyjqvjft.streamlit.app/
+## 🚀 Dashboard interativo
 
-Projeto de portfólio em Data Analytics aplicado à análise de desempenho, eficiência e monetização de produtos publicitários.
+Explore o dashboard publicado no Streamlit:
+
+👉 **[Acessar o dashboard](https://advertising-appuct-analytics-de3qrpwpyzwgfjyyjqvjft.streamlit.app/)**
+
+> Projeto de portfólio com dados educacionais e fictícios, desenvolvido para analisar desempenho de campanhas, eficiência de produtos publicitários, ocupação de inventário e geração de receita.
 
 **Projeto autoral | Dados educacionais e fictícios**
 
@@ -271,6 +275,7 @@ O painel apresenta:
 
 ```text
 advertising-product-analytics/
+
 │
 ├── data/
 │   └── advertising_product_analytics.db
