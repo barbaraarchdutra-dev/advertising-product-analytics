@@ -31,11 +31,19 @@ A principal pergunta deste projeto é:
 > **Como os dados de campanhas, anunciantes e inventário publicitário podem apoiar decisões sobre desempenho e eficiência dos produtos?**
 
 A partir dessa pergunta, a análise busca identificar diferenças de desempenho entre os produtos, avaliar indicadores de interação e conversão, analisar a ocupação do inventário e relacionar investimento, receita e eficiência de monetização.
+
 ## Objetivo
 
-Construir uma análise exploratória que permita comparar diferentes produtos publicitários e identificar padrões de desempenho e eficiência a partir de indicadores de campanha e inventário.
+Construir uma análise exploratória de produtos publicitários a partir de dados de campanhas, anunciantes e inventário, transformando os dados em indicadores que permitam avaliar:
 
-O objetivo não é estabelecer uma recomendação definitiva de investimento, mas demonstrar como uma estrutura de dados pode ser utilizada para apoiar análises e decisões orientadas por indicadores.
+- desempenho de campanhas;
+- eficiência de interação e conversão;
+- ocupação do inventário publicitário;
+- geração e participação da receita;
+- relação entre investimento e monetização;
+- diferenças de desempenho entre produtos e períodos.
+
+O objetivo é demonstrar como uma abordagem orientada a dados pode transformar informações operacionais em **indicadores e insights de apoio à tomada de decisão**.
 
 ---
 
