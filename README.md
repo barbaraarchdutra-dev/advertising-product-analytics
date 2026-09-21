@@ -1,5 +1,7 @@
 # Análise de Produtos de Publicidade
 
+🚀 **Dashboard interativo:** https://advertising-appuct-analytics-de3qrpwpyzwgfjyyjqvjft.streamlit.app/
+
 Projeto de portfólio em Data Analytics aplicado à análise de desempenho, eficiência e monetização de produtos publicitários.
 
 **Projeto autoral | Dados educacionais e fictícios**
