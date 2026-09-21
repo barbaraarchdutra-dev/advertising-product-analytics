@@ -206,13 +206,15 @@ Também foram realizados testes de consistência para identificar possíveis pro
 
 ## Principais insights
 
-Na base analisada, o produto **Native** apresentou os melhores resultados nos principais indicadores de eficiência de campanha, com maior CTR e taxa de conversão e menores CPC e custo por conversão.
+A análise da base demonstrou diferenças de desempenho e monetização entre os produtos avaliados.
 
-Na dimensão de monetização, o produto **Vídeo** apresentou a maior receita e o maior CPM de receita entre os produtos analisados.
+- **Native** apresentou o maior CTR (2,50%) e a maior taxa de conversão (4,22%), além do menor CPC (R$ 2,00) e menor custo por conversão (R$ 47,37) entre os produtos analisados.
+- **Vídeo** apresentou a maior receita total (R$ 162 mil) e o maior CPM de receita (R$ 60,00).
+- **Display** apresentou menor eficiência nos indicadores de interação e conversão quando comparado aos demais produtos da base.
+- O **Native** apresentou participação nas conversões superior à sua participação no investimento, enquanto o **Display** apresentou comportamento inverso.
+- A ocupação total do inventário analisado foi de **81,82%**, considerando 7,2 milhões de impressões vendidas de um total de 8,8 milhões disponíveis.
 
-Também foi observada uma diferença entre a participação dos produtos na receita e sua participação no investimento. Na base utilizada, o Native apresentou participação nas conversões superior à sua participação no investimento, enquanto o Display apresentou o comportamento inverso.
-
-Esses resultados são **descritivos da base analisada**. A amostra é pequena e fictícia, portanto, os resultados não devem ser interpretados como evidência causal ou como recomendação real de alocação de investimento.
+Os resultados representam o comportamento observado na base educacional utilizada e não devem ser interpretados como recomendações universais de alocação ou desempenho de produtos.
 
 ---
 
